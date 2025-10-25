@@ -11,7 +11,7 @@ export default function Home() {
     >
       <h1
         style={{
-          fontSize: 100,
+          fontSize: 40,
           textAlign: 'center',
         }}
       >
